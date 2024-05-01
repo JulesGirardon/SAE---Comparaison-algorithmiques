@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/test/v17
+/SolutionSAE2/.vs/SolutionSAE2
+/SolutionSAE2/SolutionSAE2/x64/Debug
+/SolutionSAE2/x64/Debug
